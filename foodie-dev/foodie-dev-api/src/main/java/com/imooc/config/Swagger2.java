@@ -18,7 +18,7 @@ public class Swagger2 {
     // http://localhost:8088/swagger-ui.html      源路径
     // http://localhost:8088/doc.html             换皮肤后路径
     //配置swagger2核心配置 docket
-    //测试git
+    //TestGit2
     @Bean
     public Docket createRestApi(){
         return new Docket(DocumentationType.SWAGGER_2) //指定api类型为swagger2
