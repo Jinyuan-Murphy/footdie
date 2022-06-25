@@ -1,7 +1,7 @@
 package com.imooc.pojo;
 
-import java.util.Date;
 import javax.persistence.*;
+import java.util.Date;
 
 @Table(name = "items_param")
 public class ItemsParam {
