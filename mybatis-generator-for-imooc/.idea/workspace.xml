@@ -4,13 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c14a6e37-2fd5-417c-9fab-2bfb5ddf4789" name="Default Changelist" comment="试验自动生成器3">
+    <list default="true" id="c14a6e37-2fd5-417c-9fab-2bfb5ddf4789" name="Default Changelist" comment="删除xml重复resultMap">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../foodie-dev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/CarouselMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/CarouselMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/my/mapper/MyMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/my/mapper/MyMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/mybatis/utils/GeneratorDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/mybatis/utils/GeneratorDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/mybatis-generator-for-imooc-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/mybatis-generator-for-imooc-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -110,9 +130,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Workspace/IDEA/Codes/draft/learn0/mybatis-generator-for-imooc",
+    "last_opened_file_path": "D:/Workspace/IDEA/Codes/draft/learn0/mybatis-generator-for-imooc/src/main/resources/mapper",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -127,14 +151,36 @@
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.imooc.mybatis.utils" />
-      <recent name="com.imooc.my.mapper" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\IDEA\Codes\draft\learn0\mybatis-generator-for-imooc\src\main\resources\mapper" />
       <recent name="$PROJECT_DIR$/src/main/resources/mapper" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.controller" />
+      <recent name="com.imooc.mybatis.utils" />
+      <recent name="com.imooc.my.mapper" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-generator-for-imooc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -188,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656134521563</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="删除xml重复resultMap">
+      <created>1656159553121</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656159553121</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -280,7 +333,8 @@
     <MESSAGE value="试验自动生成器" />
     <MESSAGE value="试验自动生成器2" />
     <MESSAGE value="试验自动生成器3" />
-    <option name="LAST_COMMIT_MESSAGE" value="试验自动生成器3" />
+    <MESSAGE value="删除xml重复resultMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除xml重复resultMap" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
