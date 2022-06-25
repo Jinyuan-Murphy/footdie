@@ -5,57 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c14a6e37-2fd5-417c-9fab-2bfb5ddf4789" name="Default Changelist" comment="试验自动生成器3">
-      <change afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/my/mapper/MyMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foodie-dev/foodie-dev-api/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-api/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foodie-dev/foodie-dev-api/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-api/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foodie-dev/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-api/target/foodie-dev-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foodie-dev/foodie-dev-common/target/foodie-dev-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-common/target/foodie-dev-common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/target/foodie-dev-mapper-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/target/foodie-dev-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/target/foodie-dev-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foodie-dev/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-service/target/foodie-dev-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../foodie-dev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/CarouselMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/CarouselMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/CategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/CategoryMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/ItemsCommentsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/ItemsCommentsMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/ItemsImgMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/ItemsImgMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/ItemsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/ItemsMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/ItemsParamMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/ItemsParamMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/ItemsSpecMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/ItemsSpecMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/OrderItemsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/OrderItemsMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/OrderStatusMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/OrderStatusMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/OrdersMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/OrdersMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/StuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/StuMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/UserAddressMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/UserAddressMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/mapper/UsersMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/java/com/imooc/mapper/UsersMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/Carousel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/Carousel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/Items.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/ItemsComments.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsComments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/ItemsImg.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsImg.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/ItemsParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsParam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/ItemsSpec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/ItemsSpec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/OrderItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/OrderItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/OrderStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/OrderStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/Orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/Stu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/Stu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/UserAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/UserAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/pojo/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-pojo/src/main/java/com/imooc/pojo/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/CarouselMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/CarouselMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/CategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ItemsCommentsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/ItemsCommentsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ItemsImgMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/ItemsImgMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ItemsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/ItemsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ItemsParamMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/ItemsParamMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ItemsSpecMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/ItemsSpecMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/OrderItemsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/OrderItemsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/OrderStatusMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/OrderStatusMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/OrdersMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/OrdersMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/StuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/StuMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserAddressMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/UserAddressMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UsersMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../foodie-dev/foodie-dev-mapper/src/main/resources/mapper/UsersMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,26 +135,6 @@
       <recent name="$PROJECT_DIR$/src/main/resources/mapper" />
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="GeneratorDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.imooc.mybatis.utils.GeneratorDisplay" />
-      <module name="mybatis-generator-for-imooc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.imooc.mybatis.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.GeneratorDisplay" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
